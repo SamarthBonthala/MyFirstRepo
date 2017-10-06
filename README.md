@@ -5,7 +5,7 @@
 - [x] Make a Repo
 - [x] Make first PR
 - [x] Make second PR
-- [ ] Make third PR
+- [x] Make third PR
 - [ ] Make fourth PR
 
 Corrected Some mistake
