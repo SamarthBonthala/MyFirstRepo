@@ -11,4 +11,6 @@
 
 ## Started using GitHub on 7th October, 2017
 
-## Participated in AICSSYC in GEC, 2018
+## Participated in IEEE AICSSYC in GEC, 2018
+
+## Participated in Hacktober fest in the year 2017 & 2018
